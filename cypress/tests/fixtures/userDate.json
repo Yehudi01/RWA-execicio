@@ -8,5 +8,13 @@
     "userFail": {
         "username": "test",
         "password": "s3cret"
+    },
+
+    "userRegisterSuccess": {
+        "firstName": "Zaquel",
+        "lastName": "Santos",
+        "userName": "Zac0770",
+        "password": "s3cret",
+        "confirmPassword": "s3cret"
     }
 }
