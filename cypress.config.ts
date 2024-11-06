@@ -8,6 +8,8 @@ import { devServer } from "@cypress/vite-dev-server";
 import { defineConfig } from "cypress";
 import { mergeConfig, loadEnv } from "vite";
 
+baseUrl: "http://localhost:3000/"
+
 dotenv.config({ path: ".env.local" });
 dotenv.config();
 
