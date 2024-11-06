@@ -129,6 +129,50 @@
       "balance": 0,
       "createdAt": "2024-11-06T15:52:24.626Z",
       "modifiedAt": "2024-11-06T15:52:24.626Z"
+    },
+    {
+      "id": "NtIB-w9w8",
+      "uuid": "4e437748-3234-41be-8644-1c7c7521044a",
+      "firstName": "Zaquel",
+      "lastName": "Santos",
+      "username": "Zac0770",
+      "password": "$2a$10$F59ytEMXOIgBJhZsa3XMse7vCFjSa9dm/LpT7oWcONWE66l1QUPhC",
+      "balance": 0,
+      "createdAt": "2024-11-06T15:55:24.526Z",
+      "modifiedAt": "2024-11-06T15:55:24.526Z"
+    },
+    {
+      "id": "9ZusY0FZJ",
+      "uuid": "c19adeec-7545-44e2-bba7-9603277e36f8",
+      "firstName": "",
+      "lastName": "Santos",
+      "username": "Zac0770",
+      "password": "$2a$10$pgT4et7bV07jlEjMsOdYOuaAa51L63qWNADykUa7a3qz2jvteQsl.",
+      "balance": 0,
+      "createdAt": "2024-11-06T15:55:55.131Z",
+      "modifiedAt": "2024-11-06T15:55:55.131Z"
+    },
+    {
+      "id": "Fsdz4w4-I",
+      "uuid": "6094a937-3dc2-456c-a665-5cf08147dc45",
+      "firstName": "real",
+      "lastName": "tesla",
+      "username": "___&¨%#@@#$%",
+      "password": "$2a$10$YMOmQ22D7FpoM628a/3nmeA5lzXbsvxoRPG4U0xKEeRl2W2drfGRK",
+      "balance": 0,
+      "createdAt": "2024-11-06T15:59:50.680Z",
+      "modifiedAt": "2024-11-06T15:59:50.680Z"
+    },
+    {
+      "id": "Pp456azt7",
+      "uuid": "65ea70ab-fe39-4b13-913e-c58baec42b8d",
+      "firstName": "Zaquel",
+      "lastName": "Santos",
+      "username": "Zac0770",
+      "password": "$2a$10$o1gaT/t6V2UH87FeasFxyO6GXQ.T6psRdJWvWjEI3CzFpKZt/mMoi",
+      "balance": 0,
+      "createdAt": "2024-11-06T16:04:37.286Z",
+      "modifiedAt": "2024-11-06T16:04:37.286Z"
     }
   ],
   "contacts": [
