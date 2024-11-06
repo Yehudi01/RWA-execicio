@@ -173,6 +173,17 @@
       "balance": 0,
       "createdAt": "2024-11-06T16:04:37.286Z",
       "modifiedAt": "2024-11-06T16:04:37.286Z"
+    },
+    {
+      "id": "X2k-pFD8S",
+      "uuid": "fd807513-e395-444e-9736-08d00094c2c0",
+      "firstName": "Zaquel",
+      "lastName": "Santos",
+      "username": "Zac0770",
+      "password": "$2a$10$BHEH64QhYsFd6/6Ht3jKlevDQuy9mAD67SpLRb9jUmgq8b3SDZB/2",
+      "balance": 0,
+      "createdAt": "2024-11-06T23:41:09.497Z",
+      "modifiedAt": "2024-11-06T23:41:09.497Z"
     }
   ],
   "contacts": [
