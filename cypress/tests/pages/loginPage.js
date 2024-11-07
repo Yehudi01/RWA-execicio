@@ -21,5 +21,6 @@ class LoginPage {
     errorAlertLogin() {
         cy.get(this.selectorList().errorLogin).should('contain', 'Username or password is invalid')
     }
+    
 }
 export default LoginPage
