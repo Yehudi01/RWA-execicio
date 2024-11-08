@@ -17,9 +17,9 @@ class TransectionPage {
     clickAvatarTransection() {
         cy.get(this.selectorList().avatarInconTransection).eq(0).click()
     }
-    fillTransection(){
-        cy.get(this.selectorList().placeholderAmount).type("0.01")
-        cy.get(this.selectorList().placeholderAddNote).type("Teste1")
+    fillTransection(amuont, addNote){
+        cy.get(this.selectorList().placeholderAmount).type(amuont)
+        cy.get(this.selectorList().placeholderAddNote).type(addNote)
     }
     clickPayButton() {
         cy.get(this.selectorList().paytButton).click()

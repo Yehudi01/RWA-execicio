@@ -16,5 +16,13 @@
         "userName": "Zac0770",
         "password": "s3cret",
         "confirmPassword": "s3cret"
+    },
+    "fillTransectionSuccess": {
+        "amuont": "0.01",
+        "addNote": "Test_Success"
+    },
+    "fillTransectionFail": {
+        "amuont": "-100000",
+        "addNote": "Test_Fail"
     }
 }
