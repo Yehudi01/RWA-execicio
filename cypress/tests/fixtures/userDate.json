@@ -24,5 +24,13 @@
     "fillTransectionFail": {
         "amuont": "-100000",
         "addNote": "Test_Fail"
+    },
+    "sendMoneySucces": {
+        "username": "Heath93",
+        "password": "s3cret"
+    },
+    "sendMoneyFail": {
+        "username": "test",
+        "password": "test123"
     }
 }

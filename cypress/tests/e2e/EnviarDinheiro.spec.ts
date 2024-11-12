@@ -27,6 +27,7 @@ describe.skip('Enviar dinheiro com saldo suficiente', () => {
 
 describe('Enviar dinheiro com saldo insuficiente', () => {
   it('Deve exibir mensagem de erro ao enviar dinheiro sem saldo suficiente', () => {
+    //sem possibilidade de executar essa descrição dessa automação.
     loginPage.accessLoginPage()
     loginPage.fieldUserLogin(userDate.userSuccess.username, userDate.userSuccess.password)
     loginPage.clickButtonLogin()
